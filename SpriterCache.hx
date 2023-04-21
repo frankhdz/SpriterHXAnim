@@ -1,6 +1,6 @@
-package com.acemobe.spriter;
+package com.frankhdz.spriter;
 
-import flash.utils.Dictionary;
+import openfl.utils.Dictionary;
 
 class SpriterCache
 {

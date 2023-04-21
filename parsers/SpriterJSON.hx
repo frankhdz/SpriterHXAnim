@@ -1,8 +1,8 @@
-package com.acemobe.spriter.parsers;
+package com.frankhdz.spriter.parsers;
 
-import com.acemobe.spriter.SpriterAnimation;
-import com.acemobe.spriter.data.Entity;
-import com.acemobe.spriter.data.Folder;
+import com.frankhdz.spriterSpriterAnimation;
+import com.frankhdz.spriterdata.Entity;
+import com.frankhdz.spriterdata.Folder;
 
 class SpriterJSON
 {

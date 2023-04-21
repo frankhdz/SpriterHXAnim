@@ -1,14 +1,14 @@
-package com.acemobe.spriter;
+package com.frankhdz.spriter;
 
 import haxe.Constraints.Function;
-import com.acemobe.spriter.data.Animation;
-import com.acemobe.spriter.data.BoxTimelineKey;
-import com.acemobe.spriter.data.Entity;
-import com.acemobe.spriter.data.Folder;
-import com.acemobe.spriter.data.PointTimelineKey;
-import com.acemobe.spriter.data.SpriteTimelineKey;
-import com.acemobe.spriter.data.TimelineKey;
-import flash.utils.Dictionary;
+import com.frankhdz.spriterdata.Animation;
+import com.frankhdz.spriterdata.BoxTimelineKey;
+import com.frankhdz.spriterdata.Entity;
+import com.frankhdz.spriterdata.Folder;
+import com.frankhdz.spriterdata.PointTimelineKey;
+import com.frankhdz.spriterdata.SpriteTimelineKey;
+import com.frankhdz.spriterdata.TimelineKey;
+import openfl.utils.Dictionary;
 import starling.animation.IAnimatable;
 import starling.display.Image;
 import starling.display.QuadBatch;

@@ -1,4 +1,4 @@
-package com.acemobe.spriter.data;
+package com.frankhdz.spriter.data;
 
 
 class File

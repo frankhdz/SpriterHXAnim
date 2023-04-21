@@ -1,4 +1,4 @@
-SpriterAS3Anim
+SpriterHXAnim
 ==============
 
 AS3 code to animate Spriter Animations.

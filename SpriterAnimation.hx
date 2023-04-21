@@ -1,7 +1,7 @@
-package com.acemobe.spriter;
+package com.frankhdz.spriter;
 
-import com.acemobe.spriter.parsers.SpriterJSON;
-import com.acemobe.spriter.parsers.SpriterXML;
+import com.frankhdz.spriterparsers.SpriterJSON;
+import com.frankhdz.spriterparsers.SpriterXML;
 import starling.textures.TextureAtlas;
 
 class SpriterAnimation

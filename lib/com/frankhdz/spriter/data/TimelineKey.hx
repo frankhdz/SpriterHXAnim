@@ -1,7 +1,7 @@
-package com.acemobe.spriter.data;
+package com.frankhdz.spriter.data;
 
-import com.acemobe.spriter.Spriter;
-import com.acemobe.spriter.SpriterAnimation;
+import com.frankhdz.spriterSpriter;
+import com.frankhdz.spriterSpriterAnimation;
 import starling.utils.Deg2rad;
 
 class TimelineKey

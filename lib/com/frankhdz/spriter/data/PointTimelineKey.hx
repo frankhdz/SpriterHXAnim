@@ -1,6 +1,6 @@
-package com.acemobe.spriter.data;
+package com.frankhdz.spriter.data;
 
-import com.acemobe.spriter.SpriterAnimation;
+import com.frankhdz.spriterSpriterAnimation;
 
 class PointTimelineKey extends TimelineKey
 {
