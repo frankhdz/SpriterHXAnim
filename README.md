@@ -1,7 +1,7 @@
 SpriterHXAnim
 ==============
 
-AS3 code to animate Spriter Animations.
+OpenFL code to animate Spriter Animations. Ported from SpriterAS3 by acemobe
 
 
 	var	atlas:TextureAtlas = mAssetManager.getTextureAtlas("player-atlas");		// load the texture atlas
